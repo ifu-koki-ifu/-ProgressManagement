@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="c4f59aeddb79f010c42a8e4748961962" sys_domain="global" table="x_540069_progressm_kaisen_plan" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.u_moshikomi_no.moushikomi_no</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:18:10</sys_created_on>
+            <sys_id>dc589a61dbb9f010c42a8e47489619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_kaisen_plan" sys_domain="global" view="Default view">c4f59aeddb79f010c42a8e4748961962</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:18:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.u_moshikomi_no.mousikomi_kbn</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:18:10</sys_created_on>
+            <sys_id>50589a61dbb9f010c42a8e47489619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_kaisen_plan" sys_domain="global" view="Default view">c4f59aeddb79f010c42a8e4748961962</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:18:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.u_carrier.name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:18:10</sys_created_on>
+            <sys_id>d0589a61dbb9f010c42a8e47489619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_kaisen_plan" sys_domain="global" view="Default view">c4f59aeddb79f010c42a8e4748961962</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:18:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.u_a_carrier.name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:18:10</sys_created_on>
+            <sys_id>54589a61dbb9f010c42a8e47489619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_kaisen_plan" sys_domain="global" view="Default view">c4f59aeddb79f010c42a8e4748961962</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:18:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.u_if</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:18:10</sys_created_on>
+            <sys_id>d4589a61dbb9f010c42a8e47489619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_kaisen_plan" sys_domain="global" view="Default view">c4f59aeddb79f010c42a8e4748961962</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:18:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.u_duplex</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:18:10</sys_created_on>
+            <sys_id>58589a61dbb9f010c42a8e47489619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_kaisen_plan" sys_domain="global" view="Default view">c4f59aeddb79f010c42a8e4748961962</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:18:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.u_mdi</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:18:10</sys_created_on>
+            <sys_id>d8589a61dbb9f010c42a8e47489619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_kaisen_plan" sys_domain="global" view="Default view">c4f59aeddb79f010c42a8e4748961962</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:18:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_kubun</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:18:10</sys_created_on>
+            <sys_id>5c589a61dbb9f010c42a8e47489619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_kaisen_plan" sys_domain="global" view="Default view">c4f59aeddb79f010c42a8e4748961962</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:18:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_naiyou</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:18:10</sys_created_on>
+            <sys_id>dc589a61dbb9f010c42a8e47489619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_kaisen_plan" sys_domain="global" view="Default view">c4f59aeddb79f010c42a8e4748961962</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:18:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_tehai</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:18:10</sys_created_on>
+            <sys_id>50589a61dbb9f010c42a8e47489619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_kaisen_plan" sys_domain="global" view="Default view">c4f59aeddb79f010c42a8e4748961962</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:18:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_yotei_date</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:18:10</sys_created_on>
+            <sys_id>d0589a61dbb9f010c42a8e47489619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_kaisen_plan" sys_domain="global" view="Default view">c4f59aeddb79f010c42a8e4748961962</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:18:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_bikou</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:18:10</sys_created_on>
+            <sys_id>54589a61dbb9f010c42a8e47489619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_kaisen_plan" sys_domain="global" view="Default view">c4f59aeddb79f010c42a8e4748961962</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:18:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_result_date</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:18:10</sys_created_on>
+            <sys_id>d4589a61dbb9f010c42a8e47489619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_kaisen_plan" sys_domain="global" view="Default view">c4f59aeddb79f010c42a8e4748961962</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:18:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_540069_progressm_kaisen_plan</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:07:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4f59aeddb79f010c42a8e4748961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_540069_progressm_kaisen_plan</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+            <sys_update_name>sys_ui_section_c4f59aeddb79f010c42a8e4748961962</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:07:46</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

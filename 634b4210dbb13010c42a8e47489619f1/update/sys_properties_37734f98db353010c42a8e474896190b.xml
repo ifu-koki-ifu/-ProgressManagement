@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>ROUTER_NLNH activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_540069_progressm_router_nlnh_activity.fields</name>
+        <read_roles/>
+        <suffix>x_540069_progressm</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-02 08:14:25</sys_created_on>
+        <sys_id>37734f98db353010c42a8e474896190b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>glide.ui.x_540069_progressm_router_nlnh_activity.fields</sys_name>
+        <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+        <sys_update_name>sys_properties_37734f98db353010c42a8e474896190b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-04 09:44:57</sys_updated_on>
+        <type>string</type>
+        <value>u_hw_siyousyo,u_icc_irai_day,u_icc_touroku_day,u_potal_kakunin_day,u_se_tantousya,u_shinzy_touroku_day,u_order_tantousya,u_user_touroku,u_sagyou_soufu_day,u_sagyou_time,u_sagyou_time_before,u_kouji_day,u_kouji_day_before,u_genti_sagyou_tehai,u_genti_sagyousya,u_genti_sagyousya_before,u_moshikomi_no,u_hattyu_day,u_hassou_day,u_nouhin_yotei_day,u_settei_teisyutu_day,u_progress,sys_created_on,sys_updated_on,u_order_kanryo_day,u_comment,u_sagyo_kanryo_day,u_mail_text,sys_updated_by,sys_created_by</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=37734f98db353010c42a8e474896190b"/>
+</record_update>

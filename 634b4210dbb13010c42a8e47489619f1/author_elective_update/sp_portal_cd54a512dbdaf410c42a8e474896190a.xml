@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="DELETE">
+        <css_variables/>
+        <default>false</default>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage/>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config>[{&#13;
+	"tagline": {&#13;
+		"table" : "sp_instance",&#13;
+		"sys_id" : "34fe3d96cb20020000f8d856634c9cf4",&#13;
+		"field" : "title"&#13;
+	},&#13;
+	"hero_background": {&#13;
+		"table" : "sp_container",&#13;
+		"sys_id" : "be98a8d2cb20020000f8d856634c9c63",&#13;
+		"field" : "background_image"&#13;
+	},&#13;
+	"readonly_variable_editor": "false"&#13;
+}]</quick_start_config>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu/>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-02 02:58:20</sys_created_on>
+        <sys_id>cd54a512dbdaf410c42a8e474896190a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Progress Management</sys_name>
+        <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+        <sys_update_name>sp_portal_cd54a512dbdaf410c42a8e474896190a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-02 04:14:08</sys_updated_on>
+        <theme/>
+        <title>Progress Management</title>
+        <ts_index_group/>
+        <url_suffix>pm</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="DELETE" query="documentkey=cd54a512dbdaf410c42a8e474896190a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</application>
+        <file_path/>
+        <instance_id>3b394157db06d30089535d00cf961966</instance_id>
+        <instance_name>dev59707</instance_name>
+        <name>sp_portal_cd54a512dbdaf410c42a8e474896190a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal"><sp_portal action="INSERT_OR_UPDATE"><css_variables/><default>false</default><hide_portal_name>false</hide_portal_name><homepage/><icon/><kb_knowledge_base/><kb_knowledge_page/><login_page/><logo/><notfound_page/><quick_start_config>[{&#13;
+	"tagline": {&#13;
+		"table" : "sp_instance",&#13;
+		"sys_id" : "34fe3d96cb20020000f8d856634c9cf4",&#13;
+		"field" : "title"&#13;
+	},&#13;
+	"hero_background": {&#13;
+		"table" : "sp_container",&#13;
+		"sys_id" : "be98a8d2cb20020000f8d856634c9c63",&#13;
+		"field" : "background_image"&#13;
+	},&#13;
+	"readonly_variable_editor": "false"&#13;
+}]</quick_start_config><sc_catalog/><sc_catalog_page/><sc_category_page/><sp_chat_queue/><sp_rectangle_menu/><sqanda_knowledge_base/><sys_class_name>sp_portal</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-02 02:58:20</sys_created_on><sys_id>cd54a512dbdaf410c42a8e474896190a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Progress Management</sys_name><sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package><sys_policy/><sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope><sys_update_name>sp_portal_cd54a512dbdaf410c42a8e474896190a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-02 04:14:08</sys_updated_on><theme/><title>Progress Management</title><ts_index_group/><url_suffix>pm</url_suffix></sp_portal><sys_translated_text action="delete_multiple" query="documentkey=cd54a512dbdaf410c42a8e474896190a"/></record_update>]]></payload>
+        <payload_hash>-1999675191</payload_hash>
+        <record_name>Progress Management</record_name>
+        <reverted_from/>
+        <source>e34b4210dbb13010c42a8e47489619f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-02 04:14:08</sys_created_on>
+        <sys_id>56c53d5adbdaf410c42a8e47489619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ba4b6cb5b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-02 04:14:08</sys_updated_on>
+        <type>Service Portal</type>
+        <update_guid>dac53d5afadaf4108b745ed5bb7ba09f</update_guid>
+        <update_guid_history>dac53d5afadaf4108b745ed5bb7ba09f:-1999675191,00742512cfdaf4102f9ba6feda8e0e39:-2030395362</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Progress Management">ca28aa5edb5ef410c42a8e47489619e7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-02 07:54:12</sys_created_on>
+        <sys_db_object display_value="" name="sp_portal">sp_portal</sys_db_object>
+        <sys_id>16075470b8164bfc90155f1b36ffc024</sys_id>
+        <sys_metadata>cd54a512dbdaf410c42a8e474896190a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Progress Management</sys_name>
+        <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+        <sys_scope_delete display_value="">203fddc76ca74e06b7317af09e6d9e91</sys_scope_delete>
+        <sys_update_name>sp_portal_cd54a512dbdaf410c42a8e474896190a</sys_update_name>
+        <sys_update_version display_value="sp_portal_cd54a512dbdaf410c42a8e474896190a">56c53d5adbdaf410c42a8e47489619a0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-02 07:54:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

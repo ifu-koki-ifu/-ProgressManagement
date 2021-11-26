@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>small</size>
+        <sp_column display_value="1">0813e008db263010c42a8e47489619f8</sp_column>
+        <sp_widget display_value="iFrame">bdf526831b5cbc907393da09dc4bcbb4</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-08 08:37:59</sys_created_on>
+        <sys_id>b5bba114dba27010c42a8e4748961952</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+        <sys_update_name>sp_instance_b5bba114dba27010c42a8e4748961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-08 08:47:44</sys_updated_on>
+        <title/>
+        <url>https://www.yahoo.co.jp/</url>
+        <widget_parameters><![CDATA[{
+	"url": {
+		"value": "https://www.yahoo.co.jp/",
+		"displayValue": "https://www.yahoo.co.jp/"
+	},
+	"size": {
+		"value": "small",
+		"displayValue": "small"
+	},
+	"label": {
+		"value": "",
+		"displayValue": ""
+	},
+	"set_page_title": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=b5bba114dba27010c42a8e4748961952"/>
+</record_update>

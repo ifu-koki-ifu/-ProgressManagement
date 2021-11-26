@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="moushikomi_no" label="申込書番号" language="en" table="x_540069_progressm_minos_base">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>moushikomi_no</element>
+            <help/>
+            <hint/>
+            <label>申込書番号</label>
+            <language>en</language>
+            <name>x_540069_progressm_minos_base</name>
+            <plural>申込書番号s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-03 07:01:21</sys_created_on>
+            <sys_id>575cb724dbb17010c42a8e47489619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>申込書番号</sys_name>
+            <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+            <sys_update_name>sys_documentation_x_540069_progressm_minos_base_moushikomi_no_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-03 07:01:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

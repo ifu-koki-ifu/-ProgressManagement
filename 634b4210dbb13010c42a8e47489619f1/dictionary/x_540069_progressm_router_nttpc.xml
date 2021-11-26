@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="ROUTER_NTTPC" max_length="40" name="x_540069_progressm_router_nttpc" sizeclass="25" type="collection">
+        <element label="作業完了後確認_承認日" max_length="40" name="u_a_syounin_date" type="glide_date"/>
+        <element label="作業完了後確認_承認者" max_length="32" name="u_a_syounin_name" reference="sys_user" type="reference"/>
+        <element label="作業完了後確認_照査日" max_length="40" name="u_a_syousa_date" type="glide_date"/>
+        <element label="作業完了後確認_照査者" max_length="32" name="u_a_syousa_name" reference="sys_user" type="reference"/>
+        <element label="申請前_IP登録予定日" max_length="40" name="u_b_ip_touroku_date" type="glide_date"/>
+        <element label="申請前確認_承認日" max_length="40" name="u_b_syounin_date" type="glide_date"/>
+        <element label="申請前確認_承認者" max_length="32" name="u_b_syounin_name" reference="sys_user" type="reference"/>
+        <element label="申請前確認_照査日" max_length="40" name="u_b_syousa_date" type="glide_date"/>
+        <element label="申請前確認_照査者" max_length="32" name="u_b_syousya_name" reference="sys_user" type="reference"/>
+        <element label="ドメイン申請完了日" max_length="40" name="u_domain_kanryou_date" type="glide_date"/>
+        <element label="ドメイン名" max_length="32" name="u_domain_name" type="string"/>
+        <element label="付属情報" max_length="256" name="u_fuzoku" type="string"/>
+        <element label="受信メール" max_length="1000" name="u_mail_text" type="string"/>
+        <element label="申込書番号" max_length="32" name="u_moshikomi_no" reference="x_540069_progressm_minos_base" type="reference"/>
+        <element label="申込書番号_設定仕様書" max_length="32" name="u_moshikomi_no_s" reference="x_540069_progressm_minos_info" type="reference"/>
+        <element label="オーダ完了日" max_length="40" name="u_order_kanryou_day" type="glide_date"/>
+        <element label="オーダ副担当者" max_length="32" name="u_order_sub_tantou" reference="sys_user" type="reference"/>
+        <element label="オーダ主担当者" max_length="32" name="u_order_tantou" reference="sys_user" type="reference"/>
+        <element choice="3" default="0" label="進捗状況" max_length="40" name="u_progress" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="新規" sequence="1" value="0"/>
+                <element inactive_on_update="false" label="手配中" sequence="2" value="1"/>
+                <element inactive_on_update="false" label="オーダ完了" sequence="3" value="2"/>
+                <element inactive_on_update="false" label="作業完了" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="削除" sequence="5" value="3"/>
+            </choice>
+        </element>
+        <element label="RADIUS登録確認_接続テスト実施日" max_length="40" name="u_r_setuzoku_date" type="glide_date"/>
+        <element label="RADIUS登録確認_承認日" max_length="40" name="u_r_syounin_date" type="glide_date"/>
+        <element label="RADIUS登録確認_承認者" max_length="32" name="u_r_syounin_name" reference="sys_user" type="reference"/>
+        <element label="RADIUS登録確認_照査日" max_length="40" name="u_r_syousa_date" type="glide_date"/>
+        <element label="RADIUS登録確認_照査者" max_length="32" name="u_r_syousya_name" reference="sys_user" type="reference"/>
+        <element label="作業完了日" max_length="40" name="u_sagyou_kanryou_day" type="glide_date"/>
+        <element choice="3" default="0" label="作業区分" max_length="40" name="u_sagyo_kbn" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="新規/変更" sequence="1" value="0"/>
+                <element inactive_on_update="false" label="変更(解約)" sequence="2" value="1"/>
+                <element inactive_on_update="false" label="変更(住所変更のみ)" sequence="3" value="2"/>
+                <element inactive_on_update="false" label="解約" sequence="4" value="3"/>
+                <element inactive_on_update="false" label="オーダ削除" sequence="5" value="4"/>
+                <element inactive_on_update="false" label="汎用ドメイン" sequence="6" value="5"/>
+                <element inactive_on_update="false" label="ギガビットアクセス(新規)" sequence="7" value="6"/>
+                <element inactive_on_update="false" label="ギガビットアクセス(変更)" sequence="8" value="7"/>
+                <element inactive_on_update="false" label="ギガビットアクセス(解約)" sequence="9" value="8"/>
+            </choice>
+        </element>
+        <element label="指定業者名" max_length="16" name="u_sitei_gyousya" type="string"/>
+    </element>
+</database>

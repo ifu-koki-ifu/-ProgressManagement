@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id display_value="PoC_Group_ROUTER" name="PoC_Group_ROUTER">d011c8fddbbdf010c42a8e4748961935</group_id>
+        <report_id display_value="進捗3">b9fd8c12dbc27010c42a8e47489619f6</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-24 04:42:50</sys_created_on>
+        <sys_id>ba06279bdb823010c42a8e474896197f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b9fd8c12dbc27010c42a8e47489619f6</sys_name>
+        <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+        <sys_update_name>sys_report_users_groups_ba06279bdb823010c42a8e474896197f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-24 04:42:50</sys_updated_on>
+        <user_id/>
+    </sys_report_users_groups>
+</record_update>

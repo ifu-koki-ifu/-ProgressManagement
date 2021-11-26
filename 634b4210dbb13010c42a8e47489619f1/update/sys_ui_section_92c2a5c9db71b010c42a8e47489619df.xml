@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="92c2a5c9db71b010c42a8e47489619df" sys_domain="global" table="x_540069_progressm_router_nttpc" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.moushikomi_no</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>67c61c95dbcaf010c42a8e474896192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.kenmei</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>e7c61c95dbcaf010c42a8e474896192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.order_haturei_day</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>6bc61c95dbcaf010c42a8e474896192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.haturei_bumon</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>ebc61c95dbcaf010c42a8e474896192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.kaituu_kibou_day</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>6fc61c95dbcaf010c42a8e474896192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no_s.kyoten_name</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>efc61c95dbcaf010c42a8e474896192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no_s.seti_pref</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>63c61c95dbcaf010c42a8e474896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no_s.seti_build</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>e3c61c95dbcaf010c42a8e474896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no_s.tantou_name</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>67c61c95dbcaf010c42a8e474896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>e7c61c95dbcaf010c42a8e474896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.mousikomi_kbn</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>6bc61c95dbcaf010c42a8e474896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.service_name</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>ebc61c95dbcaf010c42a8e474896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.haturei_name</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>6fc61c95dbcaf010c42a8e474896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.renrakusaki</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>efc61c95dbcaf010c42a8e474896192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no.bikou</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>6fc69c95dbcaf010c42a8e47489619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no_s.seti_post_code</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>efc69c95dbcaf010c42a8e47489619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no_s.seti_address</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>63c69c95dbcaf010c42a8e47489619b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no_s.seti_floor</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>e3c69c95dbcaf010c42a8e47489619b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_moshikomi_no_s.tantou_tel</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-17 08:29:32</sys_created_on>
+            <sys_id>67c69c95dbcaf010c42a8e47489619b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-17 08:29:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_540069_progressm_router_nttpc</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 09:07:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92c2a5c9db71b010c42a8e47489619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_540069_progressm_router_nttpc</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+            <sys_update_name>sys_ui_section_92c2a5c9db71b010c42a8e47489619df</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 09:07:20</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

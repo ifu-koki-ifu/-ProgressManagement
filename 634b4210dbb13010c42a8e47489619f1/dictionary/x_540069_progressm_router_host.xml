@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ROUTER_HOST" max_length="40" name="x_540069_progressm_router_host" sizeclass="8" type="collection">
+        <element label="CMDB登録日" max_length="40" name="u_cmdb_touroku_day" type="glide_date"/>
+        <element label="コンフィグチェック日" max_length="40" name="u_config_check_day" type="glide_date"/>
+        <element label="ホスト名" max_length="128" name="u_host_name" type="string"/>
+        <element label="保守依頼完了日" max_length="40" name="u_hosyu_kanryo_day" type="glide_date"/>
+        <element label="申込書番号" max_length="32" name="u_moshikomi_no" reference="x_540069_progressm_router_nlnh" type="reference"/>
+        <element label="審査承認システム依頼日" max_length="40" name="u_shinsa_day" type="glide_date"/>
+        <element label="審査承認システム完了日" max_length="40" name="u_shinsa_kanryo_day" type="glide_date"/>
+        <element label="資産登録完了日" max_length="40" name="u_sisan_kanryo_day" type="glide_date"/>
+        <element label="SN21CMDB参照" max_length="32" name="u_sn21" reference="cmdb_ci_ip_router" type="reference"/>
+        <index name="index">
+            <element name="u_sn21"/>
+        </index>
+        <index name="index2">
+            <element name="u_moshikomi_no"/>
+        </index>
+    </element>
+</database>

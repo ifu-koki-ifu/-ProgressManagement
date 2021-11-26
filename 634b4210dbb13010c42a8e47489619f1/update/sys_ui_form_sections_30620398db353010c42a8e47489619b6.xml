@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="30620398db353010c42a8e47489619b6" sys_domain="global" table="x_540069_progressm_router_nlnh" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-02 08:09:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f0624398db353010c42a8e4748961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_540069_progressm_router_nlnh" name="x_540069_progressm_router_nlnh" sys_domain="global" view="Default view">30620398db353010c42a8e47489619b6</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nlnh" sys_domain="global" view="Default view">63b36ad0dbf13010c42a8e47489619d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-02 08:09:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-02 08:09:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc624398db353010c42a8e4748961910</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_540069_progressm_router_nlnh" name="x_540069_progressm_router_nlnh" sys_domain="global" view="Default view">30620398db353010c42a8e47489619b6</sys_ui_form>
+            <sys_ui_section caption="工事進捗" display_value="工事進捗" name="x_540069_progressm_router_nlnh" sys_domain="global" view="Default view">b8620398db353010c42a8e47489619b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-02 08:18:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-02 08:38:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0094fdcdb353010c42a8e474896193d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_540069_progressm_router_nlnh" name="x_540069_progressm_router_nlnh" sys_domain="global" view="Default view">30620398db353010c42a8e47489619b6</sys_ui_form>
+            <sys_ui_section caption="ホスト情報" display_value="ホスト情報" name="x_540069_progressm_router_nlnh" sys_domain="global" view="Default view">cc094fdcdb353010c42a8e474896193a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-02 08:40:04</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-03 05:17:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a7463e0db717010c42a8e4748961927</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_540069_progressm_router_nlnh" name="x_540069_progressm_router_nlnh" sys_domain="global" view="Default view">30620398db353010c42a8e47489619b6</sys_ui_form>
+            <sys_ui_section caption="受信メール" display_value="受信メール" name="x_540069_progressm_router_nlnh" sys_domain="global" view="Default view">367463e0db717010c42a8e4748961923</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-03 05:17:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-02 08:12:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c230f98db353010c42a8e47489619e2</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_540069_progressm_router_nlnh" name="x_540069_progressm_router_nlnh" sys_domain="global" view="Default view">30620398db353010c42a8e47489619b6</sys_ui_form>
+            <sys_ui_section caption="変更履歴" display_value="変更履歴" name="x_540069_progressm_router_nlnh" sys_domain="global" view="Default view">10230f98db353010c42a8e47489619e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-03 05:17:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_540069_progressm_router_nlnh</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-02 08:09:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30620398db353010c42a8e47489619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_540069_progressm_router_nlnh</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_30620398db353010c42a8e47489619b6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-02 08:09:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-05 09:40:28</sys_created_on>
+        <sys_id>dce33e15db31f010c42a8e474896196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_540069_progressm_router_nlnh.x_540069_progressm.router_nlnh_read_only</sys_name>
+        <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+        <sys_security_acl display_value="x_540069_progressm_router_nlnh">936f4ad0dbb13010c42a8e4748961900</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dce33e15db31f010c42a8e474896196c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-05 09:40:28</sys_updated_on>
+        <sys_user_role display_value="x_540069_progressm.router_nlnh_read_only" name="x_540069_progressm.router_nlnh_read_only">7603fe11db31f010c42a8e47489619b0</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

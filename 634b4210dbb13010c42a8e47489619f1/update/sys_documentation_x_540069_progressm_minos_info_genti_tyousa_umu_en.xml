@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="genti_tyousa_umu" label="現地調査有無" language="en" table="x_540069_progressm_minos_info">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>genti_tyousa_umu</element>
+            <help/>
+            <hint/>
+            <label>現地調査有無</label>
+            <language>en</language>
+            <name>x_540069_progressm_minos_info</name>
+            <plural>現地調査有無s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-03 06:02:15</sys_created_on>
+            <sys_id>a9de27a8db717010c42a8e474896190a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>現地調査有無</sys_name>
+            <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+            <sys_update_name>sys_documentation_x_540069_progressm_minos_info_genti_tyousa_umu_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-03 06:02:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

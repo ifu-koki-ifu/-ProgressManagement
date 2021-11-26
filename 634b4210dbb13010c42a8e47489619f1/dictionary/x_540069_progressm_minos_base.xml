@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="MINOS_BASE" max_length="40" name="x_540069_progressm_minos_base" sizeclass="222" type="collection">
+        <element label="備考欄" max_length="40" name="bikou" type="string"/>
+        <element label="発令部門" max_length="16" name="haturei_bumon" type="string"/>
+        <element label="発令者" max_length="16" name="haturei_name" type="string"/>
+        <element label="開通希望日" max_length="10" name="kaituu_kibou_day" type="string"/>
+        <element label="件名" max_length="64" name="kenmei" type="string"/>
+        <element display="true" label="申込書番号" max_length="13" name="moushikomi_no" type="string"/>
+        <element label="申込区分" max_length="8" name="mousikomi_kbn" type="string"/>
+        <element label="オーダ発令日" max_length="10" name="order_haturei_day" type="string"/>
+        <element label="連絡先" max_length="16" name="renrakusaki" type="string"/>
+        <element label="サービス名称" max_length="32" name="service_name" type="string"/>
+        <element label="ユーザ名" max_length="32" name="user_name" type="string"/>
+    </element>
+</database>

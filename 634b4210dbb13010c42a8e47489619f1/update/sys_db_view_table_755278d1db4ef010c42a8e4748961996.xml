@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table">
+    <sys_db_view_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <left_join>true</left_join>
+        <order>300</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-17 10:30:19</sys_created_on>
+        <sys_id>755278d1db4ef010c42a8e4748961996</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>x_540069_progressm_router_nttpc</sys_name>
+        <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+        <sys_update_name>sys_db_view_table_755278d1db4ef010c42a8e4748961996</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-18 02:56:20</sys_updated_on>
+        <table>x_540069_progressm_router_nttpc</table>
+        <variable_prefix>nttpc</variable_prefix>
+        <view display_value="x_540069_progressm_progress_view2">ef11f4d1db4ef010c42a8e4748961920</view>
+        <where_clause>tsk_u_order_no=nttpc_u_order_no</where_clause>
+    </sys_db_view_table>
+</record_update>

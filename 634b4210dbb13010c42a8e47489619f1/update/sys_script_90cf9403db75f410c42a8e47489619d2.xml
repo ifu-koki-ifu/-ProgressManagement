@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_540069_progressm_kaisen</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>BussinessRule_KAISEN</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+
+    // Add your code here
+
+    //新規で、回線手配担当者有りなら、アサイン済み
+    if (current.u_progress == '0' && !current.u_kaisen_tehai.nil()) {
+        current.u_progress.setValue('5');
+        //アサイン済みで、(何かしら更新が入ったら)、手配中
+    } else if (current.u_progress == '5') {
+        current.u_progress.setValue('1');
+        // 手配中で、オーダ完了日に入力有りなら、オーダ完了
+    } else if (current.u_progress == '1' && !current.u_order_kanryo_day.nil()) {
+        current.u_progress.setValue('2');
+        // オーダ完了で、作業完了日に入力有りなら、作業完了
+    } else if (current.u_progress == '2' && !current.u_sagyo_kanryo_day.nil()) {
+        current.u_progress.setValue('4');
+    }
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 09:40:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>90cf9403db75f410c42a8e47489619d2</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>BussinessRule_KAISEN</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+        <sys_update_name>sys_script_90cf9403db75f410c42a8e47489619d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-11 01:48:20</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=90cf9403db75f410c42a8e47489619d2"/>
+</record_update>

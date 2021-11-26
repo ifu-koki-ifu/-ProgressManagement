@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>KAISEN activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_540069_progressm_kaisen_activity.fields</name>
+        <read_roles/>
+        <suffix>x_540069_progressm</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-04 09:43:57</sys_created_on>
+        <sys_id>7a2b2581dbb1b010c42a8e47489619e4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>glide.ui.x_540069_progressm_kaisen_activity.fields</sys_name>
+        <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+        <sys_update_name>sys_properties_7a2b2581dbb1b010c42a8e47489619e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-06 10:17:16</sys_updated_on>
+        <type>string</type>
+        <value>u_cmdb_touroku,u_if,u_if_etc,u_mdf,u_mdi,u_mind_no,u_a_carrier,u_c_sagyousya,u_c_hosyu,u_c_bikou,u_c_kouji_yotei,u_c_umu,u_c_kouji_kakutei,u_c_tehai,u_carrier_kaituu_day,u_c_stanby,u_provider_id,u_provider,u_user_kaituu_day,u_carrier,u_denso_sonsitu,u_k_sagyousya,u_bikou,u_mail_text,u_kaisen_id,u_kaisen_meigi,u_kaisen_hinmoku,u_chk_kouiki,u_chk_ashi,u_k_bikou,u_k_tuika_umu,u_kaisen_tehai,u_k_sinsei,u_kaisen_speed,u_k_koujiyotei,u_kouji_kbn,u_k_umu,u_k_koujikakutei,u_koutei_progress,u_setuzoku_id,u_teikyo_area,u_g_gyousya,u_g_bikou,u_g_tehai_day,u_g_umu,u_g_kakutei_day,u_g_1st,u_g_2nd,u_g_3rd,u_g_kekka,u_g_tuika,u_g_kouban,u_moshikomi_no,u_moshikomi_no_s,u_progress,sys_updated_on,sys_updated_by,sys_created_on,sys_created_by,u_k_anken_create,u_k_anken_create_approval,u_k_anken_create_syousa,u_k_anken_complete,u_k_anken_complete_approval,u_k_anken_complete_syousa,u_k_anken_create_name,u_k_anken_complete_name</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=7a2b2581dbb1b010c42a8e47489619e4"/>
+</record_update>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="ROUTER_NLNH" max_length="40" name="x_540069_progressm_router_nlnh" sizeclass="21" type="collection">
+        <element choice="3" default="1" label="照査・承認" max_length="20" name="approval_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="未依頼" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="オーダ完了照査依頼" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="オーダ完了照査差し戻し" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="オーダ完了照査済み" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="オーダ完了承認依頼" sequence="5" value="5"/>
+                <element inactive_on_update="false" label="オーダ完了承認差し戻し" sequence="6" value="6"/>
+                <element inactive_on_update="false" label="オーダ完了承認済み" sequence="7" value="7"/>
+                <element inactive_on_update="false" label="作業完了照査依頼" sequence="8" value="8"/>
+                <element inactive_on_update="false" label="作業完了照査差し戻し" sequence="9" value="9"/>
+                <element inactive_on_update="false" label="作業完了照査済み" sequence="10" value="10"/>
+                <element inactive_on_update="false" label="作業完了承認依頼" sequence="11" value="11"/>
+                <element inactive_on_update="false" label="作業完了承認差し戻し" sequence="12" value="12"/>
+                <element inactive_on_update="false" label="作業完了承認済み" sequence="13" value="13"/>
+            </choice>
+        </element>
+        <element label="オーダ照査日" max_length="40" name="order_syousa_date" type="glide_date"/>
+        <element label="作業照査日" max_length="40" name="sagyou_syousa_date" type="glide_date"/>
+        <element label="コメント" max_length="1000" name="u_comment" type="string"/>
+        <element label="現地作業者名" max_length="32" name="u_genti_sagyousya" reference="sys_user" type="reference"/>
+        <element label="現地作業者名" max_length="32" name="u_genti_sagyousya_before" reference="sys_user" type="reference"/>
+        <element label="現地作業手配" max_length="40" name="u_genti_sagyou_tehai" type="boolean"/>
+        <element label="発送物到着日" max_length="40" name="u_hassou_day" type="glide_date"/>
+        <element label="発注依頼日" max_length="40" name="u_hattyu_day" type="glide_date"/>
+        <element label="HW仕様書提出日" max_length="40" name="u_hw_siyousyo" type="glide_date"/>
+        <element label="ICCへの設定依頼日" max_length="40" name="u_icc_irai_day" type="glide_date"/>
+        <element label="ICC工事情報システム登録日" max_length="40" name="u_icc_touroku_day" type="glide_date"/>
+        <element label="工事日" max_length="40" name="u_kouji_day" type="glide_date"/>
+        <element label="工事日(事前据付)" max_length="40" name="u_kouji_day_before" type="glide_date"/>
+        <element label="受信メール" max_length="1000" name="u_mail_text" type="string"/>
+        <element label="申込書番号" max_length="13" name="u_moshikomi_no" reference="x_540069_progressm_minos_base" type="reference"/>
+        <element label="申込書番号_設定仕様書" max_length="32" name="u_moshikomi_no_s" reference="x_540069_progressm_minos_info" type="reference"/>
+        <element label="納品予定日" max_length="40" name="u_nouhin_yotei_day" type="glide_date"/>
+        <element label="オーダ完了日" max_length="40" name="u_order_kanryo_day" type="glide_date"/>
+        <element label="オーダ担当者名" mandatory="true" max_length="32" name="u_order_tantousya" reference="sys_user" type="reference"/>
+        <element label="Potal確認日" max_length="40" name="u_potal_kakunin_day" type="glide_date"/>
+        <element choice="3" default="0" label="進捗状況" max_length="40" name="u_progress" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="新規" sequence="1" value="0"/>
+                <element inactive_on_update="false" label="アサイン済み" sequence="2" value="5"/>
+                <element inactive_on_update="false" label="手配中" sequence="3" value="1"/>
+                <element inactive_on_update="false" label="オーダ完了" sequence="4" value="2"/>
+                <element inactive_on_update="false" label="作業完了" sequence="5" value="4"/>
+                <element inactive_on_update="false" label="削除" sequence="6" value="3"/>
+            </choice>
+        </element>
+        <element label="作業仕様書送付日" max_length="40" name="u_sagyou_soufu_day" type="glide_date"/>
+        <element label="作業時間" max_length="5" name="u_sagyou_time" type="string"/>
+        <element label="作業時間(事前据付)" max_length="5" name="u_sagyou_time_before" type="string"/>
+        <element label="作業完了日" max_length="40" name="u_sagyo_kanryo_day" type="glide_date"/>
+        <element label="設定仕様書提出日" max_length="40" name="u_settei_teisyutu_day" type="glide_date"/>
+        <element label="SE担当者名" max_length="32" name="u_se_tantousya" reference="sys_user" type="reference"/>
+        <element label="Shinzy登録日" max_length="40" name="u_shinzy_touroku_day" type="glide_date"/>
+        <element choice="1" label="ユーザ登録" max_length="40" name="u_user_touroku" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="未完了" sequence="1" value="0"/>
+                <element inactive_on_update="false" label="完了" sequence="2" value="1"/>
+                <element inactive_on_update="false" label="無" sequence="3" value="2"/>
+            </choice>
+        </element>
+    </element>
+</database>

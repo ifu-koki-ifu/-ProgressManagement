@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_kubun" table="x_540069_progressm_kaisen_plan" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_kubun</element>
+            <name>x_540069_progressm_kaisen_plan</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:15:30</sys_created_on>
+            <sys_id>1db71621dbb9f010c42a8e474896193e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_kubun</sys_name>
+            <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+            <sys_update_name>sys_choice_x_540069_progressm_kaisen_plan_u_kubun</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:15:30</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_kubun</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>作業スケジュール</label>
+            <language>en</language>
+            <name>x_540069_progressm_kaisen_plan</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:15:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0a79261dbb9f010c42a8e474896198e</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:17:30</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_kubun</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>手配内容 &gt; キャリア申請</label>
+            <language>en</language>
+            <name>x_540069_progressm_kaisen_plan</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:15:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5db75e21dbb9f010c42a8e47489619b7</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:17:33</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_kubun</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>手配内容 &gt; その他申請</label>
+            <language>en</language>
+            <name>x_540069_progressm_kaisen_plan</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:16:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9bb75e21dbb9f010c42a8e4748961902</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:17:36</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_kubun</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>手配内容 &gt; 確認・依頼・対応事項</label>
+            <language>en</language>
+            <name>x_540069_progressm_kaisen_plan</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-06 02:17:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ad71261dbb9f010c42a8e47489619ea</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-06 02:17:38</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

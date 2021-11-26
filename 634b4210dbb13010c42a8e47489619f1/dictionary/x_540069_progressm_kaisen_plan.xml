@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="KAISEN_PLAN" max_length="40" name="x_540069_progressm_kaisen_plan" sizeclass="12" type="collection">
+        <element label="備考" max_length="128" name="u_bikou" type="string"/>
+        <element choice="1" label="区分" max_length="40" name="u_kubun" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="作業スケジュール" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="手配内容 &gt; キャリア申請" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="手配内容 &gt; その他申請" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="手配内容 &gt; 確認・依頼・対応事項" sequence="4" value="4"/>
+            </choice>
+        </element>
+        <element label="申込書番号" max_length="32" name="u_moshikomi_no" reference="x_540069_progressm_kaisen" type="reference"/>
+        <element label="内容" max_length="64" name="u_naiyou" type="string"/>
+        <element label="実施日/申請日" max_length="40" name="u_result_date" type="glide_date"/>
+        <element label="手配先" max_length="16" name="u_tehai" type="string"/>
+        <element label="予定日" max_length="40" name="u_yotei_date" type="glide_date"/>
+        <index name="index">
+            <element name="u_moshikomi_no"/>
+        </index>
+    </element>
+</database>

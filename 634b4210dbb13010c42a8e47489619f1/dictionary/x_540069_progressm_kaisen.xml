@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" audit="true" extends="task" label="KAISEN" max_length="40" name="x_540069_progressm_kaisen" sizeclass="24" type="collection">
+        <element label="SN21　回線情報(MIND番号)" max_length="32" name="kaisen_info" reference="dscy_net_base" reference_qual="sys_class_name!=dscy_router_interface^EQ" reference_qual_condition="sys_class_name!=dscy_router_interface^EQ" type="reference"/>
+        <element label="備考" max_length="128" name="u_bikou" type="string"/>
+        <element label="キャリア開通日" max_length="40" name="u_carrier_kaituu_day" type="glide_date"/>
+        <element choice="1" default="0" label="回線品目チェック_足回り" max_length="40" name="u_chk_ashi" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-" sequence="1" value="0"/>
+                <element inactive_on_update="false" label="新規のみ" sequence="2" value="1"/>
+                <element inactive_on_update="false" label="チェック済み" sequence="3" value="2"/>
+            </choice>
+        </element>
+        <element choice="1" default="0" label="回線品目チェック_広域網" max_length="40" name="u_chk_kouiki" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-" sequence="1" value="0"/>
+                <element inactive_on_update="false" label="新規のみ" sequence="2" value="1"/>
+                <element inactive_on_update="false" label="チェック済み" sequence="3" value="2"/>
+            </choice>
+        </element>
+        <element label="CMDB登録日" max_length="40" name="u_cmdb_touroku" type="glide_date"/>
+        <element label="キャリアコンバータ備考" max_length="128" name="u_c_bikou" type="string"/>
+        <element label="キャリアコンバータ保守" max_length="16" name="u_c_hosyu" type="string"/>
+        <element label="キャリアコンバータ工事確定日" max_length="16" name="u_c_kouji_kakutei" type="string"/>
+        <element label="キャリアコンバータ工事予定日" max_length="16" name="u_c_kouji_yotei" type="string"/>
+        <element label="キャリアコンバータ作業者名" max_length="32" name="u_c_sagyousya" type="string"/>
+        <element label="コールドスタンバイ有無" max_length="40" name="u_c_stanby" type="boolean"/>
+        <element label="キャリアコンバータ手配日" max_length="40" name="u_c_tehai" type="glide_date"/>
+        <element label="キャリアコンバータ工事有無" max_length="40" name="u_c_umu" type="boolean"/>
+        <element label="現調第１希望日" max_length="16" name="u_g_1st" type="string"/>
+        <element label="現調第２希望日" max_length="16" name="u_g_2nd" type="string"/>
+        <element label="現調第３希望日" max_length="16" name="u_g_3rd" type="string"/>
+        <element label="現調備考" max_length="128" name="u_g_bikou" type="string"/>
+        <element label="業者名・立会い" max_length="64" name="u_g_gyousya" type="string"/>
+        <element label="現調確定日" max_length="16" name="u_g_kakutei_day" type="string"/>
+        <element label="現調結果展開日" max_length="40" name="u_g_kekka" type="glide_date"/>
+        <element label="現調項番" max_length="16" name="u_g_kouban" type="string"/>
+        <element label="現調手配日" max_length="40" name="u_g_tehai_day" type="glide_date"/>
+        <element label="現調追加有無" max_length="40" name="u_g_tuika" type="boolean"/>
+        <element label="現調有無" max_length="40" name="u_g_umu" type="boolean"/>
+        <element label="回線手配担当者" max_length="32" name="u_kaisen_tehai" reference="sys_user" type="reference"/>
+        <element choice="1" label="工事区分" max_length="40" name="u_kouji_kbn" type="choice">
+            <choice/>
+        </element>
+        <element choice="3" default="1" label="工程計画書状況" max_length="40" name="u_koutei_progress" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="未作成" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="作成照査依頼" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="作成照査差し戻し" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="作成照査済み" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="作成承認依頼" sequence="5" value="5"/>
+                <element inactive_on_update="false" label="作成承認差し戻し" sequence="6" value="6"/>
+                <element inactive_on_update="false" label="作成承認済み" sequence="7" value="7"/>
+                <element inactive_on_update="false" label="完了照査依頼" sequence="8" value="8"/>
+                <element inactive_on_update="false" label="完了照査差し戻し" sequence="9" value="9"/>
+                <element inactive_on_update="false" label="完了照査済み" sequence="10" value="10"/>
+                <element inactive_on_update="false" label="完了承認依頼" sequence="11" value="11"/>
+                <element inactive_on_update="false" label="完了承認差し戻し" sequence="12" value="12"/>
+                <element inactive_on_update="false" label="完了承認済み" sequence="13" value="13"/>
+            </choice>
+        </element>
+        <element label="案件完了" max_length="40" name="u_k_anken_complete" type="glide_date"/>
+        <element label="案件完了_承認日" max_length="40" name="u_k_anken_complete_approval" read_only="true" type="glide_date"/>
+        <element label="案件担当者(完了)" max_length="32" name="u_k_anken_complete_name" reference="sys_user" type="reference"/>
+        <element label="案件完了_照査日" max_length="40" name="u_k_anken_complete_syousa" read_only="true" type="glide_date"/>
+        <element label="案件作成" max_length="40" name="u_k_anken_create" type="glide_date"/>
+        <element label="案件作成_承認日" max_length="40" name="u_k_anken_create_approval" read_only="true" type="glide_date"/>
+        <element label="案件担当者(作成)" max_length="32" name="u_k_anken_create_name" reference="sys_user" type="reference"/>
+        <element label="案件作成_照査日" max_length="40" name="u_k_anken_create_syousa" read_only="true" type="glide_date"/>
+        <element label="回線工事備考" max_length="128" name="u_k_bikou" type="string"/>
+        <element label="工事確定日" max_length="16" name="u_k_koujikakutei" type="string"/>
+        <element label="工事予定日" max_length="16" name="u_k_koujiyotei" type="string"/>
+        <element label="作業者名" max_length="32" name="u_k_sagyousya" type="string"/>
+        <element label="回線申請日" max_length="40" name="u_k_sinsei" type="glide_date"/>
+        <element label="回線工事追加有無" max_length="40" name="u_k_tuika_umu" type="boolean"/>
+        <element label="工事有無" max_length="40" name="u_k_umu" type="boolean"/>
+        <element label="受信メール" max_length="1000" name="u_mail_text" type="string"/>
+        <element label="申込書番号" max_length="32" name="u_moshikomi_no" reference="x_540069_progressm_minos_base" type="reference"/>
+        <element label="申込書番号_設定仕様書" max_length="32" name="u_moshikomi_no_s" reference="x_540069_progressm_minos_info" type="reference"/>
+        <element label="オーダ完了日" max_length="40" name="u_order_kanryo_day" type="glide_date"/>
+        <element choice="3" default="0" label="進捗状況" max_length="40" name="u_progress" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="新規" sequence="1" value="0"/>
+                <element inactive_on_update="false" label="アサイン済み" sequence="2" value="5"/>
+                <element inactive_on_update="false" label="手配中" sequence="3" value="1"/>
+                <element inactive_on_update="false" label="オーダ完了" sequence="4" value="2"/>
+                <element inactive_on_update="false" label="作業完了" sequence="5" value="4"/>
+                <element inactive_on_update="false" label="削除" sequence="6" value="3"/>
+            </choice>
+        </element>
+        <element label="作業完了日" max_length="40" name="u_sagyo_kanryo_day" type="glide_date"/>
+        <element label="ユーザ開通希望日" max_length="40" name="u_user_kaituu_day" type="glide_date"/>
+    </element>
+</database>

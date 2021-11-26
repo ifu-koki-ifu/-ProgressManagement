@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu">
+    <sp_instance_menu action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>th-list</glyph>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">71dee000db663010c42a8e474896198a</sp_column>
+        <sp_widget display_value="Icon Menu List">88979930cb01020000f8d856634c9caa</sp_widget>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-07 09:34:06</sys_created_on>
+        <sys_id>c6fee000db663010c42a8e4748961968</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ルータ(NL,NH)</sys_name>
+        <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+        <sys_update_name>sp_instance_menu_c6fee000db663010c42a8e4748961968</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-07 09:35:08</sys_updated_on>
+        <title>ルータ(NL,NH)</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_menu>
+    <sys_translated_text action="DELETE" query="documentkey=c6fee000db663010c42a8e4748961968"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</application>
+        <file_path/>
+        <instance_id>3b394157db06d30089535d00cf961966</instance_id>
+        <instance_name>dev59707</instance_name>
+        <name>sp_instance_menu_c6fee000db663010c42a8e4748961968</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu"><sp_instance_menu action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph>th-list</glyph><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">71dee000db663010c42a8e474896198a</sp_column><sp_widget display_value="Icon Menu List">88979930cb01020000f8d856634c9caa</sp_widget><sys_class_name>sp_instance_menu</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-07 09:34:06</sys_created_on><sys_id>c6fee000db663010c42a8e4748961968</sys_id><sys_mod_count>1</sys_mod_count><sys_name>ルータ(NL,NH)</sys_name><sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package><sys_policy/><sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope><sys_update_name>sp_instance_menu_c6fee000db663010c42a8e4748961968</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-07 09:35:08</sys_updated_on><title>ルータ(NL,NH)</title><url/><widget_parameters/></sp_instance_menu><sys_translated_text action="delete_multiple" query="documentkey=c6fee000db663010c42a8e4748961968"/></record_update>]]></payload>
+        <payload_hash>-1712008414</payload_hash>
+        <record_name>ルータ(NL,NH)</record_name>
+        <reverted_from/>
+        <source>e34b4210dbb13010c42a8e47489619f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-07 09:35:08</sys_created_on>
+        <sys_id>113f2cccdb263010c42a8e4748961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bbf9c7aab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-07 09:35:08</sys_updated_on>
+        <type>Instance with Menu</type>
+        <update_guid>d53f2ccc0e26301045d37a8521957958</update_guid>
+        <update_guid_history>d53f2ccc0e26301045d37a8521957958:-1712008414,06fee00036663010232d3f0bcc7e2d6a:1338163598</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ルータ(NL,NH)">a2f0b480db663010c42a8e4748961926</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-07 09:42:52</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_menu">sp_instance_menu</sys_db_object>
+        <sys_id>85cb067e8d764cba9cb83af742d9e669</sys_id>
+        <sys_metadata>c6fee000db663010c42a8e4748961968</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ルータ(NL,NH)</sys_name>
+        <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+        <sys_scope_delete display_value="">203fddc76ca74e06b7317af09e6d9e91</sys_scope_delete>
+        <sys_update_name>sp_instance_menu_c6fee000db663010c42a8e4748961968</sys_update_name>
+        <sys_update_version display_value="sp_instance_menu_c6fee000db663010c42a8e4748961968">113f2cccdb263010c42a8e4748961959</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-07 09:42:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="MINOS_INFO" max_length="40" name="x_540069_progressm_minos_info" sizeclass="222" type="collection">
+        <element label="現地調査有無" max_length="10" name="genti_tyousa_umu" type="string"/>
+        <element label="回線_キャリア品目" max_length="32" name="kaisen_carrier" type="string"/>
+        <element label="回線_その他特記事項" max_length="128" name="kaisen_etc" type="string"/>
+        <element label="回線_フレッツ提供エリア" max_length="16" name="kaisen_flets_area" type="string"/>
+        <element label="回線_フレッツサポートタイプ" max_length="16" name="kaisen_flets_support" type="string"/>
+        <element label="回線_回線ID" max_length="32" name="kaisen_kaisen_id" type="string"/>
+        <element label="回線_管理番号" max_length="32" name="kaisen_kanri_no" type="string"/>
+        <element label="回線工事希望日" max_length="16" name="kaisen_kouji_day" type="string"/>
+        <element label="回線_プロバイダ名" max_length="16" name="kaisen_provider" type="string"/>
+        <element label="機器情報_メーカ" max_length="16" name="kiki_maker" type="string"/>
+        <element label="機器情報_利用装置" max_length="16" name="kiki_riyou" type="string"/>
+        <element label="機器情報_サポートタイプ" max_length="16" name="kiki_support" type="string"/>
+        <element label="切替作業時間" max_length="16" name="kirikae_sagyou_time" type="string"/>
+        <element label="工事区分" max_length="16" name="kouji_kbn" type="string"/>
+        <element label="拠点名" max_length="32" name="kyoten_name" type="string"/>
+        <element label="申込区分" max_length="16" name="moshikomi_kbn" type="string"/>
+        <element display="true" label="申込書番号" max_length="13" name="moushikomi_no" type="string"/>
+        <element label="連絡先" max_length="32" name="renrakusaki" type="string"/>
+        <element label="利用サービス" max_length="16" name="riyou_service" type="string"/>
+        <element label="ルータ工事日" max_length="10" name="router_kouji_day" type="string"/>
+        <element label="ルータ設置作業日" max_length="16" name="router_setti_sagyou_day" type="string"/>
+        <element label="静観日" max_length="10" name="seikan_day" type="string"/>
+        <element label="静観時間" max_length="16" name="seikan_time" type="string"/>
+        <element label="サービス品目" max_length="16" name="service_hinmoku" type="string"/>
+        <element label="サービス名称" max_length="16" name="service_name" type="string"/>
+        <element label="設置場所_市区町村" max_length="64" name="seti_address" type="string"/>
+        <element label="設置場所_ビル名" max_length="32" name="seti_build" type="string"/>
+        <element label="設置場所_フロア名" max_length="32" name="seti_floor" type="string"/>
+        <element label="設置場所_会社名" max_length="64" name="seti_kaisya_name" type="string"/>
+        <element label="設置場所_郵便番号" max_length="10" name="seti_post_code" type="string"/>
+        <element label="設置場所_都道府県" max_length="16" name="seti_pref" type="string"/>
+        <element label="設置場所_区画ラック" max_length="16" name="seti_rack" type="string"/>
+        <element label="設置場所_現地電話番号" max_length="16" name="seti_tel" type="string"/>
+        <element label="システムID" max_length="7" name="system_id" type="string"/>
+        <element label="担当者_所属" max_length="16" name="tantou_belong" type="string"/>
+        <element label="担当者_担当者" max_length="16" name="tantou_name" type="string"/>
+        <element label="担当者_電話番号" max_length="16" name="tantou_tel" type="string"/>
+        <element label="第一希望日" max_length="16" name="u_1st_kibou_day" type="string"/>
+        <element label="第二希望日" max_length="16" name="u_2nd_kibou_day" type="string"/>
+        <element label="第三希望日" max_length="16" name="u_3rd_kibou_day" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="回線情報" section_id="92ccf474db757010c42a8e47489619bf" sys_domain="global" table="x_540069_progressm_kaisen" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>ee1b0d53dbb13810c42a8e47489619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>661b0d53dbb13810c42a8e47489619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_kansen_key</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>e61b0d53dbb13810c42a8e47489619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_kaisen_meigi</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>6a1b0d53dbb13810c42a8e47489619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_kansen_key.u_gyousya_id</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>261b8d53dbb13810c42a8e4748961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_access_id</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>a61b8d53dbb13810c42a8e4748961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_provider_name</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>2a1b8d53dbb13810c42a8e4748961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_area</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>aa1b8d53dbb13810c42a8e4748961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_hinmoku</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>2e1b8d53dbb13810c42a8e4748961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_mdf_senban</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>ae1b8d53dbb13810c42a8e4748961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_carrier_if</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>221b8d53dbb13810c42a8e4748961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_carrer_lan_duplex</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>a21b8d53dbb13810c42a8e4748961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>261b8d53dbb13810c42a8e4748961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_mind_kanri_no</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>a61b8d53dbb13810c42a8e4748961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_gyousya_id</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>2a1b8d53dbb13810c42a8e4748961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_setuzoku_id</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>aa1b8d53dbb13810c42a8e4748961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_providerid</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>2e1b8d53dbb13810c42a8e4748961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_denso_sonsitu</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>ae1b8d53dbb13810c42a8e4748961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_speed</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>221b8d53dbb13810c42a8e4748961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_carrier_lan_mdi</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>a21b8d53dbb13810c42a8e4748961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.u_carrier_lan_etc</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>261b8d53dbb13810c42a8e4748961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>a61b8d53dbb13810c42a8e4748961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kaisen_info.comments</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-11 07:10:10</sys_created_on>
+            <sys_id>2a1b8d53dbb13810c42a8e4748961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="回線情報" display_value="回線情報" name="x_540069_progressm_kaisen" sys_domain="global" view="Default view">92ccf474db757010c42a8e47489619bf</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-11 07:10:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>回線情報</caption>
+            <header>false</header>
+            <name>x_540069_progressm_kaisen</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-03 11:42:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92ccf474db757010c42a8e47489619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_540069_progressm_kaisen</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+            <sys_update_name>sys_ui_section_92ccf474db757010c42a8e47489619bf</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-03 11:42:49</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

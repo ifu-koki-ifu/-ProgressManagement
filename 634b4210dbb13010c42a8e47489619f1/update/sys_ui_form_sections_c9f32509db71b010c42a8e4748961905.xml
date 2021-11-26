@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c9f32509db71b010c42a8e4748961905" sys_domain="global" table="x_540069_progressm_router_nttpc" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 09:12:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8df32509db71b010c42a8e4748961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_540069_progressm_router_nttpc" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">c9f32509db71b010c42a8e4748961905</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">92c2a5c9db71b010c42a8e47489619df</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 09:12:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 09:12:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09f3290ddb71b010c42a8e4748961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_540069_progressm_router_nttpc" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">c9f32509db71b010c42a8e4748961905</sys_ui_form>
+            <sys_ui_section caption="進捗状況" display_value="進捗状況" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">c5f3e50ddb71b010c42a8e47489619ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 09:12:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 09:39:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>293a6541dbb1b010c42a8e4748961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_540069_progressm_router_nttpc" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">c9f32509db71b010c42a8e4748961905</sys_ui_form>
+            <sys_ui_section caption="受信メール" display_value="受信メール" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">e13a6541dbb1b010c42a8e4748961990</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 09:39:46</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 09:40:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>016a2941dbb1b010c42a8e4748961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_540069_progressm_router_nttpc" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">c9f32509db71b010c42a8e4748961905</sys_ui_form>
+            <sys_ui_section caption="変更履歴" display_value="変更履歴" name="x_540069_progressm_router_nttpc" sys_domain="global" view="Default view">416a2941dbb1b010c42a8e474896198f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 09:40:34</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_540069_progressm_router_nttpc</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 09:12:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9f32509db71b010c42a8e4748961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_540069_progressm_router_nttpc</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c9f32509db71b010c42a8e4748961905</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 09:12:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

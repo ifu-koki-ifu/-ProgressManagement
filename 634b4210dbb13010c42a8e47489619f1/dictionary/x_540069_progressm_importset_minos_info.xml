@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="ImportSet_MINOS_INFO" max_length="40" name="x_540069_progressm_importset_minos_info" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="サービス名称" max_length="40" name="u_サービス名称" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="サービス品目" max_length="40" name="u_サービス品目" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="システムID" max_length="40" name="u_システムid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ルータ工事日" max_length="40" name="u_ルータ工事日" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ルータ設置作業日" max_length="40" name="u_ルータ設置作業日" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="切替作業時間" max_length="40" name="u_切替作業時間" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="利用サービス" max_length="40" name="u_利用サービス" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="回線_その他特記事項" max_length="40" name="u_回線_その他特記事項" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="回線_キャリア品目" max_length="40" name="u_回線_キャリア品目" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="回線_フレッツサポートタイプ" max_length="40" name="u_回線_フレッツサポートタイプ" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="回線_フレッツ提供エリア" max_length="40" name="u_回線_フレッツ提供エリア" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="回線_プロバイダ名" max_length="40" name="u_回線_プロバイダ名" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="回線_回線ID" max_length="40" name="u_回線_回線id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="回線_管理番号" max_length="40" name="u_回線_管理番号" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="回線工事希望日" max_length="40" name="u_回線工事希望日" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="工事区分" max_length="40" name="u_工事区分" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="担当者_所属" max_length="40" name="u_担当者_所属" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="担当者_担当者" max_length="40" name="u_担当者_担当者" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="担当者_電話番号" max_length="40" name="u_担当者_電話番号" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="拠点名" max_length="40" name="u_拠点名" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="機器情報_サポートタイプ" max_length="40" name="u_機器情報_サポートタイプ" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="機器情報_メーカ" max_length="40" name="u_機器情報_メーカ" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="機器情報_利用装置" max_length="40" name="u_機器情報_利用装置" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="現地調査有無" max_length="40" name="u_現地調査有無" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="申込区分" max_length="40" name="u_申込区分" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="申込書番号" max_length="40" name="u_申込書番号" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="第一希望日" max_length="40" name="u_第一希望日" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="第三希望日" max_length="40" name="u_第三希望日" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="第二希望日" max_length="40" name="u_第二希望日" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="設置場所_ビル名" max_length="40" name="u_設置場所_ビル名" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="設置場所_フロア名" max_length="40" name="u_設置場所_フロア名" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="設置場所_会社名" max_length="40" name="u_設置場所_会社名" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="設置場所_区画ラック" max_length="40" name="u_設置場所_区画ラック" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="設置場所_市区町村" max_length="40" name="u_設置場所_市区町村" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="設置場所_現地電話番号" max_length="40" name="u_設置場所_現地電話番号" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="設置場所_郵便番号" max_length="40" name="u_設置場所_郵便番号" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="設置場所_都道府県" max_length="40" name="u_設置場所_都道府県" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="連絡先" max_length="40" name="u_連絡先" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="静観日" max_length="40" name="u_静観日" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="静観時間" max_length="40" name="u_静観時間" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table">
+    <sys_db_view_table action="DELETE">
+        <active>true</active>
+        <left_join>false</left_join>
+        <order>300</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-12 05:29:05</sys_created_on>
+        <sys_id>005c71e3dbfd3810c42a8e4748961905</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_540069_progressm_kaisen</sys_name>
+        <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+        <sys_update_name>sys_db_view_table_005c71e3dbfd3810c42a8e4748961905</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-16 01:38:21</sys_updated_on>
+        <table>x_540069_progressm_kaisen</table>
+        <variable_prefix>kaisen</variable_prefix>
+        <view display_value="x_540069_progressm_progress_view">1a6be5e7dbbd3810c42a8e47489619a9</view>
+        <where_clause>nlnh_sys_id=kaisen_u_moshikomi_no</where_clause>
+    </sys_db_view_table>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</application>
+        <file_path/>
+        <instance_id>3b394157db06d30089535d00cf961966</instance_id>
+        <instance_name>dev59707</instance_name>
+        <name>sys_db_view_table_005c71e3dbfd3810c42a8e4748961905</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table"><sys_db_view_table action="INSERT_OR_UPDATE"><active>true</active><left_join>false</left_join><order>300</order><sys_class_name>sys_db_view_table</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-12 05:29:05</sys_created_on><sys_id>005c71e3dbfd3810c42a8e4748961905</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_540069_progressm_kaisen</sys_name><sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package><sys_policy/><sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope><sys_update_name>sys_db_view_table_005c71e3dbfd3810c42a8e4748961905</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-16 01:38:21</sys_updated_on><table>x_540069_progressm_kaisen</table><variable_prefix>kaisen</variable_prefix><view display_value="x_540069_progressm_progress_view">1a6be5e7dbbd3810c42a8e47489619a9</view><where_clause>nlnh_sys_id=kaisen_u_moshikomi_no</where_clause></sys_db_view_table></record_update>]]></payload>
+        <payload_hash>-1403728379</payload_hash>
+        <record_name>x_540069_progressm_kaisen</record_name>
+        <reverted_from/>
+        <source>3c6ef61ddb167410c42a8e47489619e0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-16 01:38:21</sys_created_on>
+        <sys_id>6a1f61f8db0ab010c42a8e4748961957</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>17b4c9c0f8e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-30 06:57:28</sys_updated_on>
+        <type>View Table</type>
+        <update_guid>a21f61f82a0ab0108773b3393545e557</update_guid>
+        <update_guid_history>a21f61f82a0ab0108773b3393545e557:-1403728379,2f8d71e3ecfd3810f331424cd2250ade:217151575</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-16 01:41:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_view_table">sys_db_view_table</sys_db_object>
+        <sys_id>08845fcf8a974788b8dfbb3d8987af10</sys_id>
+        <sys_metadata>005c71e3dbfd3810c42a8e4748961905</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_540069_progressm_kaisen</sys_name>
+        <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+        <sys_parent display_value="x_540069_progressm_progress_view">1a6be5e7dbbd3810c42a8e47489619a9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+        <sys_scope_delete display_value="">203fddc76ca74e06b7317af09e6d9e91</sys_scope_delete>
+        <sys_update_name>sys_db_view_table_005c71e3dbfd3810c42a8e4748961905</sys_update_name>
+        <sys_update_version display_value="sys_db_view_table_005c71e3dbfd3810c42a8e4748961905">6a1f61f8db0ab010c42a8e4748961957</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-16 01:41:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

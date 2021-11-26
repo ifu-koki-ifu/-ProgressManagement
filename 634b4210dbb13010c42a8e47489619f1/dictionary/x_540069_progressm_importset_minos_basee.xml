@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="ImportSet_MINOS_BASE" max_length="40" name="x_540069_progressm_importset_minos_basee" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="オーダ発令日" max_length="40" name="u_オーダ発令日" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="サービス名称" max_length="40" name="u_サービス名称" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ユーザ名" max_length="40" name="u_ユーザ名" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="件名" max_length="40" name="u_件名" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="備考欄" max_length="40" name="u_備考欄" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="申込区分" max_length="40" name="u_申込区分" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="申込書番号" max_length="40" name="u_申込書番号" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="発令者" max_length="40" name="u_発令者" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="発令部門" max_length="40" name="u_発令部門" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="連絡先" max_length="40" name="u_連絡先" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="開通希望日" max_length="40" name="u_開通希望日" type="string"/>
+    </element>
+</database>

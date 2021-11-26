@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="DELETE">
+        <active>true</active>
+        <conditions table="x_540069_progressm_router_nlnh">u_moshikomi_noISNOTEMPTY^EQ<item endquery="false" field="u_moshikomi_no" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+var f = g_form.getReference('u_moshikomi_no');
+	g_form.setValue('u_moushikomi_no_s', f);
+}]]></script_true>
+        <set_values/>
+        <short_description>申込書番号</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-03 02:29:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bfcdbee4dbfd3010c42a8e4748961933</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>申込書番号</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+        <sys_update_name>sys_ui_policy_bfcdbee4dbfd3010c42a8e4748961933</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-03 02:29:28</sys_updated_on>
+        <table>x_540069_progressm_router_nlnh</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</application>
+        <file_path/>
+        <instance_id>3b394157db06d30089535d00cf961966</instance_id>
+        <instance_name>dev59707</instance_name>
+        <name>sys_ui_policy_bfcdbee4dbfd3010c42a8e4748961933</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="x_540069_progressm_router_nlnh"&gt;u_moshikomi_noISNOTEMPTY^EQ&lt;item endquery="false" field="u_moshikomi_no" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;true&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+var f = g_form.getReference('u_moshikomi_no');
+	g_form.setValue('u_moushikomi_no_s', f);
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;申込書番号&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-08-03 02:29:28&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;bfcdbee4dbfd3010c42a8e4748961933&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;申込書番号&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="ProgressManagement" source="x_540069_progressm"&gt;634b4210dbb13010c42a8e47489619f1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ProgressManagement"&gt;634b4210dbb13010c42a8e47489619f1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_bfcdbee4dbfd3010c42a8e4748961933&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-08-03 02:29:28&lt;/sys_updated_on&gt;&lt;table&gt;x_540069_progressm_router_nlnh&lt;/table&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1160557129</payload_hash>
+        <record_name>申込書番号</record_name>
+        <reverted_from/>
+        <source>3c6ef61ddb167410c42a8e47489619e0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-03 02:29:28</sys_created_on>
+        <sys_id>a02ebee4dbfd3010c42a8e474896195f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>17b09d82fe00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-30 06:57:38</sys_updated_on>
+        <type>UI Policy</type>
+        <update_guid>e82ebee4affd3010697abf40ce3f505e</update_guid>
+        <update_guid_history>e82ebee4affd3010697abf40ce3f505e:-1160557129</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-03 02:31:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy">sys_ui_policy</sys_db_object>
+        <sys_id>59b6943c0be04d76877d5b8c762fbe44</sys_id>
+        <sys_metadata>bfcdbee4dbfd3010c42a8e4748961933</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>申込書番号</sys_name>
+        <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+        <sys_parent display_value="ROUTER_NLNH">ca1f46d0dbb13010c42a8e474896192d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+        <sys_scope_delete display_value="">203fddc76ca74e06b7317af09e6d9e91</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_bfcdbee4dbfd3010c42a8e4748961933</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_bfcdbee4dbfd3010c42a8e4748961933">a02ebee4dbfd3010c42a8e474896195f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-03 02:31:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

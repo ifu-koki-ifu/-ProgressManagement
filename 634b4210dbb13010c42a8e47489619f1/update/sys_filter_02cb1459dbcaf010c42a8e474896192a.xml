@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="x_540069_progressm_progress_view">nlnh_u_moshikomi_no.moushikomi_noISNOTEMPTY^ORnttpc_u_moshikomi_no.moushikomi_noISNOTEMPTY^ORkaisen_u_moshikomi_no.moushikomi_noISNOTEMPTY^EQ<item endquery="false" field="nlnh_u_moshikomi_no.moushikomi_no" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="false" field="nttpc_u_moshikomi_no.moushikomi_no" goto="false" newquery="false" operator="ISNOTEMPTY" or="true" value=""/>
+            <item endquery="false" field="kaisen_u_moshikomi_no.moushikomi_no" goto="false" newquery="false" operator="ISNOTEMPTY" or="true" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used/>
+        <mobile>false</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-17 08:51:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>02cb1459dbcaf010c42a8e474896192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>進捗フィルターtest</sys_name>
+        <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+        <sys_update_name>sys_filter_02cb1459dbcaf010c42a8e474896192a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-17 08:51:17</sys_updated_on>
+        <table>x_540069_progressm_progress_view</table>
+        <title>進捗フィルターtest</title>
+        <user/>
+    </sys_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=02cb1459dbcaf010c42a8e474896192a"/>
+</record_update>

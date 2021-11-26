@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_sagyo_kbn" table="x_540069_progressm_router_nttpc" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_sagyo_kbn</element>
+            <name>x_540069_progressm_router_nttpc</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 08:28:56</sys_created_on>
+            <sys_id>73f9d505db71b010c42a8e474896192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_sagyo_kbn</sys_name>
+            <sys_package display_value="ProgressManagement" source="x_540069_progressm">634b4210dbb13010c42a8e47489619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ProgressManagement">634b4210dbb13010c42a8e47489619f1</sys_scope>
+            <sys_update_name>sys_choice_x_540069_progressm_router_nttpc_u_sagyo_kbn</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 08:28:56</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_sagyo_kbn</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>新規/変更</label>
+            <language>en</language>
+            <name>x_540069_progressm_router_nttpc</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 08:28:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b6e9d505db71b010c42a8e4748961928</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 08:30:51</sys_updated_on>
+            <value>0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_sagyo_kbn</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>変更(解約)</label>
+            <language>en</language>
+            <name>x_540069_progressm_router_nttpc</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 08:29:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>400ad545db71b010c42a8e4748961943</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 08:30:53</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_sagyo_kbn</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>変更(住所変更のみ)</label>
+            <language>en</language>
+            <name>x_540069_progressm_router_nttpc</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 08:29:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>560ad545db71b010c42a8e4748961963</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 08:30:56</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_sagyo_kbn</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>解約</label>
+            <language>en</language>
+            <name>x_540069_progressm_router_nttpc</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 08:29:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec1ad905db71b010c42a8e47489619f8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 08:30:58</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_sagyo_kbn</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>オーダ削除</label>
+            <language>en</language>
+            <name>x_540069_progressm_router_nttpc</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 08:29:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d21ad545db71b010c42a8e4748961964</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 08:31:01</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_sagyo_kbn</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>汎用ドメイン</label>
+            <language>en</language>
+            <name>x_540069_progressm_router_nttpc</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 08:29:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>522ad545db71b010c42a8e4748961965</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 08:31:04</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_sagyo_kbn</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ギガビットアクセス(新規)</label>
+            <language>en</language>
+            <name>x_540069_progressm_router_nttpc</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 08:29:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b72addc1db71b010c42a8e47489619c9</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 08:31:08</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_sagyo_kbn</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ギガビットアクセス(変更)</label>
+            <language>en</language>
+            <name>x_540069_progressm_router_nttpc</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 08:30:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>713a5d81db71b010c42a8e4748961964</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 08:31:11</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_sagyo_kbn</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ギガビットアクセス(解約)</label>
+            <language>en</language>
+            <name>x_540069_progressm_router_nttpc</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 08:30:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d84a5945db71b010c42a8e474896192b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 08:31:15</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
